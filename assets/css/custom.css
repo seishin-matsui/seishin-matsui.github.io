@@ -1,0 +1,29 @@
+/* -----------------------------------------
+   イベント関連のタイトル文字サイズ調整 (Tailwind版対応)
+----------------------------------------- */
+
+/* ① ホームページ（Recent & Upcoming Talks）に表示されるイベント一覧のタイトル */
+/* #talks のブロック内にある見出しやリンクの文字サイズを強制上書きします */
+#talks h2,
+#talks h3,
+#talks a {
+  font-size: 1.25rem !important;  /* 好みのサイズ（デフォルトより小さめ） */
+  line-height: 1.4 !important;
+}
+
+/* ② イベントの詳細ページ（クリックした後の画面）の一番上の大きなタイトル */
+/* 記事本文エリアにある一番大きな見出し(h1)を狙い撃ちします */
+article h1,
+main h1 {
+  font-size: 1.4rem !important;     /* 好みのサイズ */
+  line-height: 1.8 !important;
+}
+
+/* 自己紹介文（Bio）を両端揃えにする */
+.bio-text, 
+.article-style p,
+#about p {
+  text-align: justify !important;
+  text-justify: inter-ideograph; /* 日本語の間隔を綺麗に調整する設定 */
+}
+

@@ -2,34 +2,33 @@ schema: hugoblox/author/v1
 slug: me
 is_owner: true
 name:
-  display: Dr. Alex Johnson
-  given: Alex
-  family: Johnson
+  display: Seishin Matsui
+  given: Seishin
+  family: Matsui
   alternate: ''  # Example: 王伟
   pronunciation: ''  # Example: Wáng Wěi
-  pronouns: he/him
+  #pronouns: Seishin Matsui
 postnominals:
   - PhD
   - MIEEE
 status:
-  icon: "☕️"
-role: Senior AI Research Scientist
+  #icon: "☕️"
+role: Ph.D. student
 bio: |
-  Alex Johnson is a Senior AI Research Scientist at Meta AI. His research
-  has been published in top conferences like NeurIPS and ICML, with over
-  10,000 citations. Alex is passionate about pushing the boundaries of AI
-  while ensuring ethical development.
-
+ **I am Seishin Matsui, a Ph.D. student at the University of Tsukuba, Japan. My research centers on material modeling to simulate the fracture behavior of metallic materials. I also develop reliable numerical methods for fracture behavior subject to microstructural uncertainties, including voids, inclusions, and mechanical instabilities.**
+#In general, when a large deformation is applied to a metallic material at *room temperature*, it undergoes elastic deformation followed by plastic deformation, ultimately leading to <u>ductile fracture</u>. In contrast, at *low temperatures*, metallic materials undergo <u>brittle fracture</u> with little plastic deformation. Additionally, even small loads that do not cause immediate failure can gradually accumulate damage within the material through repeated loading and unloading, leading to <u>fatigue fracture</u>. Therefore, "fracture" is categorized into a variety of phenomena governed entirely by loading conditions. The aim of my reserch is to develop a <u>comprehensive framework</u> to mechanically evaluate these diverse fracture phenomena. In other owrds, I focus not only *on isolated failure modes* but also on *complex behaviors* where one fracture mechanism transitions into another.
+#Please reach out to collaborate [matsui.seishin.qm@alumni.tsukuba.ac.jp](mailto:matsui.seishin.qm@alumni.tsukuba.ac.jp)
+  
 affiliations:
-  - name: Meta AI
-    url: https://ai.meta.com/
+  - name: Shintaku laboratory, University of Tsukuba, Japan
+    url: https://sites.google.com/view/shintakulab
 
 links:
   - icon: at-symbol
-    url: mailto:alex.johnson@example.com
+    url: mailto:matsui.seishin.qm@alumni.tsukuba.ac.jp
     label: E-mail Me
-  - icon: brands/x
-    url: https://x.com/example
+  #- icon: brands/x
+    #url: https://x.com/example
   - icon: brands/github
     url: https://github.com/example
   - icon: brands/linkedin
@@ -40,77 +39,109 @@ links:
     url: https://orcid.org/0000-0002-1825-0097
 
 interests:
-  - Large Language Models
-  - Computer Vision
-  - Reinforcement Learning
-  - AI Ethics
+  - Computational mechanics
+  - Continuum damage mechanics
+  - Damage plasticity
+  - Statistical mechanics
+  - Topology optimization
+  - Information Entropy
 
 education:
-  - degree: PhD Computer Science
-    institution: Stanford University
-    start: 2015-09-01
-    end: 2019-06-30
-    summary: |
-      Thesis on scaling laws for neural language models. Published 5 papers in NeurIPS and ICML.
-    button:
-      text: Download dissertation
-      url: /resume.pdf
-      icon: hero/arrow-down-tray
-  - degree: MS Computer Science
-    institution: Carnegie Mellon University
-    start: 2013-09-01
-    end: 2015-05-31
-  - degree: BS Computer Science
-    institution: MIT
-    start: 2009-09-01
-    end: 2013-05-31
+  - degree: Ph.D. in Engineering
+    institution: University of Tsukuba, Japan
+    start: 2026-04-01
+    end: Current
+    #summary: |
+      #Thesis on scaling laws for neural language models. Published 5 papers in NeurIPS and ICML.
+    #button:
+      #text: Download dissertation
+      #url: /resume.pdf
+      #icon: hero/arrow-down-tray
+  - degree: Master of Engineering
+    institution: University of Tsukuba, Japan
+    start: 2024-04-01
+    end: 2026-03-31
+    #summary: |
+      #Thesis on scaling laws for neural language models. Published 5 papers in NeurIPS and ICML.
+    #button:
+      #text: Download master thesis
+      #url: /resume.pdf
+      #icon: hero/arrow-down-tray
+  - degree: Bachelor of Engineering
+    institution: University of Tsukuba, Japan
+    start: 2020-04-01
+    end: 2024-03-31
+    #summary: |
+      #Thesis on scaling laws for neural language models. Published 5 papers in NeurIPS and ICML.
+    #button:
+      #text: Download Bachelor's thesis
+      #url: /resume.pdf
+      #icon: hero/arrow-down-tray
 
 experience:
-  - role: Senior AI Research Scientist
-    org: Meta AI
-    start: 2020-01-01
+  - role: Research Assistant
+    org: University of Tsukuba, Japan
+    start: 2026-04-01
+    end: Current
     summary: |
-      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models.
-    button:
-      text: View portfolio
-      url: /
-      icon: hero/arrow-down-tray
-  - role: AI Research Intern
-    org: OpenAI
-    start: 2019-06-01
-    end: 2019-12-31
+      Creating a plasticity theory that considers dislocation dynamics from the perspective of statistical mechanics.
+    #button:
+      #text: View portfolio
+      #url: /
+      #icon: hero/arrow-down-tray
+  - role: Research Assistant
+    org: University of Tsukuba, Japan
+    start: 2025-05-01
+    end: 2026-03-31
     summary: |
-      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
+      Multiscale analysis based on statistical mechanics for materials informatics.
+    #button:
+      #text: View portfolio
+      #url: /
+      #icon: hero/arrow-down-tray
+  - role: Teaching Assistant
+    org: Advanced Material Science
+    start: 2025-01-01
+    end: 2025-02-27
+    #summary: |
+      #Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
+  - role: Teaching Assistant
+    org: Fundametals of Material Science
+    start: 2024-07-01
+    end: 2024-09-30
+    #summary: |
+      #Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
 
 skills:
   - name: Technical Skills
     items:
-      - label: Python
+      - label: Finite element method ( FEM )
         level: 5
-      - label: Machine Learning
+      - label: Damage plasticity
         level: 5
-      - label: Cloud Computing
+      - label: Statistical mechanics
         level: 4
-  - name: Research & Communication
-    items:
-      - label: Academic Writing
-        level: 5
-      - label: Conference Presentations
-        level: 4
-      - label: Grant Proposals
-        level: 4
+  #- name: Research & Communication
+    #items:
+      #- label: Academic Writing
+        #level: 3
+      #- label: Conference Presentations
+        #level: 4
+      #- label: Grant Proposals
+        #level: 3
 
 languages:
-  - name: English
+  - name: Japanese
     level: 5
     label: Native
-  - name: Spanish
+  - name: English
     level: 4
     label: Fluent
+  
 
-awards:
-  - title: Best Paper Award
-    awarder: NeurIPS
-    date: "2022-12-01"
-    summary: Awarded for groundbreaking work on efficient training of large models.
-    icon: hero/trophy
+#awards:
+  #- title: Best Paper Award
+    #awarder: NeurIPS
+    #date: "2022-12-01"
+    #summary: Awarded for groundbreaking work on efficient training of large models.
+    #icon: hero/trophy

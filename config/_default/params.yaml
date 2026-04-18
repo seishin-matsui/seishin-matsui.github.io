@@ -13,7 +13,7 @@ hugoblox:
   # ────────────────────────────────────────────────────────────────────────────
   identity:
     # Site name - shown in navbar, footer, copyright, and browser title by default
-    name: "Your Name"
+    name: "seishin matsui"
     # Legal entity for copyright notices (defaults to name if not set)
     organization: ""
     # Schema.org type for structured data
@@ -32,27 +32,27 @@ hugoblox:
   # ────────────────────────────────────────────────────────────────────────────
   theme:
     # Mode: 'light', 'dark', or 'system' (follows OS preference)
-    mode: system
+    mode: light
     # Theme pack: name from data/themes/ or { light: "x", dark: "y" } for mix-and-match
-    pack: "default"
+    pack: ""
     # Optional: Override theme pack colors
     colors:
-      primary: ""                       # Tailwind palette name or hex (e.g., "indigo" or "#6366f1")
-      secondary: ""
+      primary: "#2dd4bf"                       # Tailwind palette name or hex (e.g., "indigo" or "#6366f1")
+      secondary: "#1e3a8a"
       neutral: ""                       # Affects gray utilities (text-gray-*, bg-gray-*)
     # Optional: Mode-specific color overrides
     colors_light: {}
     colors_dark: {}
     # Optional: Semantic surface color overrides
     surfaces:
-      background: ""
-      foreground: ""
+      background: "#f0f9ff"
+      foreground: "#0c4a6e"
       header:
-        background: ""
-        foreground: ""
+        background: "#f0f9ff"
+        foreground: "#0c4a6e"
       footer:
-        background: ""
-        foreground: ""
+        background: "#f0f9ff"
+        foreground: "#0c4a6e"
 
   # ────────────────────────────────────────────────────────────────────────────
   # TYPOGRAPHY
@@ -88,8 +88,8 @@ hugoblox:
     align: center                       # left | center | right
     # Feature toggles
     search: true
-    theme_toggle: true
-    theme_picker: true
+    theme_toggle: faulse
+    theme_picker: faulse
     language_switcher: true
     # Call-to-action button
     cta:
