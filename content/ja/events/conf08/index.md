@@ -1,6 +1,6 @@
 ---
 title: "An enhanced Rousselier model to predict ductile fracture under a wide range of loading conditions"
-date: '2026-04-03T00:00:00Z'
+date: '2026-07-25T00:00:00Z'
 
 event_name: WCCM-ECCOMAS 2026
 event_url: https://wccm-eccomas2026.org/

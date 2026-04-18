@@ -74,7 +74,7 @@ sections:
   - block: collection
     id: talks
     content:
-      title: Recent & Upcoming Conferences
+      title: Recent Conferences
       count: 4
       filters:
         folders:
