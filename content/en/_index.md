@@ -75,7 +75,7 @@ sections:
     id: talks
     content:
       title: Recent & Upcoming Conferences
-      #count: 3
+      count: 4
       filters:
         folders:
           - events
