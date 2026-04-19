@@ -74,7 +74,7 @@ sections:
   - block: collection
     id: talks
     content:
-      title: Recent Conferences
+      title: Intl. & Domestic Conferences
       count: 4
       filters:
         folders:

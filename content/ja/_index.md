@@ -74,7 +74,7 @@ sections:
   - block: collection
     id: talks
     content:
-      title: 学会
+      title: 国際・国内学会
       #count: 3
       filters:
         folders:

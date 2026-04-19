@@ -1,5 +1,5 @@
 ---
-title: 学会
+title: 国際・国内学会
 cms_exclude: true
 #url: talk
 
