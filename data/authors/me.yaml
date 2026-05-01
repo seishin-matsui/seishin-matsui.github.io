@@ -39,7 +39,7 @@ links:
     url: https://orcid.org/0000-0002-1825-0097
 
 interests:
-  - Continuum damage mechanics
+  - Finite element method
   - Damage plasticity
   - Statistical evaluation
   - Information Entropy
@@ -48,7 +48,7 @@ education:
   - degree: Ph.D. in Engineering
     institution: University of Tsukuba, Japan
     start: 2026-04-01
-    end: Current
+    end: Present
     #summary: |
       #Thesis on scaling laws for neural language models. Published 5 papers in NeurIPS and ICML.
     #button:
@@ -80,7 +80,7 @@ experience:
   - role: Research Assistant
     org: University of Tsukuba, Japan
     start: 2026-04-01
-    end: Current
+    end: Present
     summary: |
       Creating a plasticity theory that considers dislocation dynamics from the perspective of statistical mechanics.
     #button:

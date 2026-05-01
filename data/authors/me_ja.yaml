@@ -39,7 +39,7 @@ links:
     url: https://orcid.org/0000-0002-1825-0097
 
 interests:
-  - 連続体損傷力学
+  - 有限要素法
   - 塑性・損傷
   - 統計量評価
   - 情報エントロピー
@@ -80,9 +80,9 @@ experience:
   - role: リサーチアシスタント
     org: 筑波大学
     start: 2026-04-01
-    end: Current
+    end: 現在
     summary: |
-      統計力学の観点から転移の運動を考慮した塑性理論の創生
+      統計力学の観点から転位の運動を考慮した塑性理論の創生
     #button:
       #text: View portfolio
       #url: /
