@@ -19,7 +19,7 @@ sections:
           <p>{{< icon name="envelope" pack="fas" >}} matsui.seishin.qm[at]alumni.tsukuba.ac.jp</a></p>
           <p>
             <i class="fa-solid fa-location-dot" style="margin-right: 8px;"></i><br>
-            <i class="fas fa-envelope" style="margin-right: 8px;"></i>🏛️筑波大学 システム情報系 構造エネルギー工学域<br><br>📍茨城県つくば市天王台1-1-1 3F棟102号室
+            <i class="fas fa-envelope" style="margin-right: 8px;"></i>🏛️筑波大学 システム情報系 構造エネルギー工学域<br><br>📍茨城県つくば市天王台1-1-1
           </p>
         </div>
 
