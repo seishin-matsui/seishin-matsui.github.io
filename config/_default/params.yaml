@@ -106,7 +106,7 @@ hugoblox:
     style: minimal                      # minimal | columns | centered
     language_switcher: true
     # Custom footer text (HTML supported)
-    text: "© 2026 seishin matsui. All Rights Reserved"
+    text: "© 2026 seishin matsui. All Rights Reserved."
 
   # ────────────────────────────────────────────────────────────────────────────
   # COPYRIGHT
