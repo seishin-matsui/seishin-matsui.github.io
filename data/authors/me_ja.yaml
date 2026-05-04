@@ -15,7 +15,7 @@ status:
   #icon: "☕️"
 role: 博士後期課程
 bio: |
- **筑波大学博士後期課程の学生です。私は、金属材料の破壊を表現するための材料モデルの開発と実装を中心に研究を進めています。加えて、金属材料に含まれる介在物や初期不整などの不確実性に起因する破壊挙動のばらつきを評価するための信頼性評価手法についても研究しています。**
+ **筑波大学博士後期課程の学生です。金属材料の破壊を表現するための材料モデルの開発と実装を中心に研究を進めています。加えて、金属材料に含まれる介在物や初期不整などの不確実性に起因する破壊挙動のばらつきを評価するための信頼性評価手法についても研究しています。**
 #In general, when a large deformation is applied to a metallic material at *room temperature*, it undergoes elastic deformation followed by plastic deformation, ultimately leading to <u>ductile fracture</u>. In contrast, at *low temperatures*, metallic materials undergo <u>brittle fracture</u> with little plastic deformation. Additionally, even small loads that do not cause immediate failure can gradually accumulate damage within the material through repeated loading and unloading, leading to <u>fatigue fracture</u>. Therefore, "fracture" is categorized into a variety of phenomena governed entirely by loading conditions. The aim of my reserch is to develop a <u>comprehensive framework</u> to mechanically evaluate these diverse fracture phenomena. In other owrds, I focus not only *on isolated failure modes* but also on *complex behaviors* where one fracture mechanism transitions into another.
 
   
