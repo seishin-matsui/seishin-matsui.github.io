@@ -13,7 +13,7 @@ hugoblox:
   # ────────────────────────────────────────────────────────────────────────────
   identity:
     # Site name - shown in navbar, footer, copyright, and browser title by default
-    name: "seishin matsui"
+    name: "Seishin Matsui"
     # Legal entity for copyright notices (defaults to name if not set)
     organization: ""
     # Schema.org type for structured data
@@ -106,7 +106,7 @@ hugoblox:
     style: minimal                      # minimal | columns | centered
     language_switcher: true
     # Custom footer text (HTML supported)
-    text: "© 2026 seishin matsui. All Rights Reserved."
+    text: "© 2026 Seishin Matsui. All Rights Reserved."
 
   # ────────────────────────────────────────────────────────────────────────────
   # COPYRIGHT
