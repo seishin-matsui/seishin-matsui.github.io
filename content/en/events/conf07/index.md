@@ -1,29 +1,27 @@
 ---
-title: "平坦破壊およびシアリップ破壊を表現するための拡張Rousselierモデル & 延性-脆性遷移挙動を表現するための結合力埋込型構成則"
-date: '2026-06-06T00:00:00Z'
+title: "An enhanced Rousselier model to predict ductile fracture under a wide range of loading conditions"
+date: '2026-07-25T00:00:00Z'
 
-event_name: 第31回計算工学講演会
-event_url: https://www.jsces.org/koenkai/31/
+event_name: WCCM-ECCOMAS 2026
+event_url: https://wccm-eccomas2026.org/
 
-location: ウィンクあいち
+location: International Congress Center Messe München
 address:
-  postcode: '〒450-0002 愛知県名古屋市中村区名駅４丁目４−３８'
+  postcode: 'Messe München GmbH, Messegelände, 81823 München, Germany'
 
-summary: An enhanced Rousselier model to realize flat and shear-lip fractures & Cohesive-enbedded constitutive law to realize ductile-to-brittle transition behavior
+summary: #Discover how to create stunning, interactive presentations using simple Markdown — no PowerPoint, Keynote, or vendor lock-in required.
 abstract: |
-  （1）The contribution of this study is to propose a numerical analysis method by combination of a modified Rousselier model based on Hencky-type hyper-elastic energy function and a stochastic collocation method that enables us to efficiently compute statistics. A modified Rousselier model is proposed by combining conventional Rousselier model with Tresca yield criterion to predict not only flat fracture but also shear lip fracture. The flat fracture which arises owing to the growth of void under high stress triaxiality state is represented along with the increase of void volume fraction as the shrinkage of the yield surface by the hydrostatic stress. On the other hand, the shear lip fracture that is caused by the rotation and expansion of voids on the shear band under low stress triaxiality state is realized by introducing the Tresca yield criterion as the dependence of the yield function on Lode angle. By incorporating stochastic collocation method with the finite element analysis using the modified Rousselier model, the capability of our proposed method is demonstrated throughout numerical simulations.
-
-  （2）The contribution of this study is to propose a numerical analysis method by combination of a modified Rousselier model based on Hencky-type hyper-elastic energy function and a stochastic collocation method that enables us to efficiently compute statistics. A modified Rousselier model is proposed by combining conventional Rousselier model with Tresca yield criterion to predict not only flat fracture but also shear lip fracture. The flat fracture which arises owing to the growth of void under high stress triaxiality state is represented along with the increase of void volume fraction as the shrinkage of the yield surface by the hydrostatic stress. On the other hand, the shear lip fracture that is caused by the rotation and expansion of voids on the shear band under low stress triaxiality state is realized by introducing the Tresca yield criterion as the dependence of the yield function on Lode angle. By incorporating stochastic collocation method with the finite element analysis using the modified Rousselier model, the capability of our proposed method is demonstrated throughout numerical simulations.
+  The objective of this study is to propose an enhanced Rousselier model for predicting ductile fracture in metallic materials under a wide range of loading conditions. As is well known, ductile fracture is widely classified into pressure-dominated and shear-dominated types by the different damage mechanisms. The pressure-dominated fracture is represented by the combination of Rousselier model as the growth of voids depending on hydrostatic stress and the conventional void nucleation criterion from the primary inclusions. On the other hand, the shear-dominated failure is realized by the Tresca yield criterion as the formation of the shear band depending on Lode angle and the additional criterion as the subsequent void nucleation from the secondary inclusions due to the strain localization. Throughout numerical examples in which several types of specimens are utilized for a wide range of loading conditions, the capability of the proposed model is demonstrated by comparison with the conventional Rousselier model.
 
 # Talk start and end times.
-event_start: '2026-06-05T16:00:00Z'
-event_end: '2026-06-05T16:30:00Z'
+event_start: '2026-07-19T10:00:00Z'
+event_end: '2026-07-24T17:00:00Z'
 event_all_day: false
 
 authors:
   - me
-  - 新宅 勇一
-  - 寺田賢二郎
+  - Yuichi Shintaku
+  - Kenjiro Terada
 
 #tags:
   #- Markdown
@@ -62,10 +60,5 @@ My presentation is mainly about:
 - ✅ Flat fracture
 - ✅ Shear-lip fracture
 - ✅ Rousselier model
-- ✅ Tresca yield criterion
-- ✅ Ductile-to-brittle transition behavior
-- ✅ Cohesive zone model
-- ✅ Rousselier model
 
 
-{{< button url="https://www.jsces.org/koenkai/31/program/" text="Download Full Program" icon="book-open" style="outline" size="md" align="center" />}}

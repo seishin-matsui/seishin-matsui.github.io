@@ -46,7 +46,7 @@ interests:
 
 education:
   - degree: 博士（工学）
-    institution: 筑波大学 構造エネルギー学位プログラム
+    institution: 筑波大学 構造エネルギー工学学位プログラム
     start: 2026-04-01
     end: 現在
     #summary: |
@@ -56,7 +56,7 @@ education:
       #url: /resume.pdf
       #icon: hero/arrow-down-tray
   - degree: 修士（工学）
-    institution: 筑波大学 構造エネルギー学位プログラム
+    institution: 筑波大学 構造エネルギー工学学位プログラム
     start: 2024-04-01
     end: 2026-03-31
     #summary: |

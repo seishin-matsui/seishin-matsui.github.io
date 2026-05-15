@@ -75,7 +75,7 @@ sections:
     id: talks
     content:
       title: 国際・国内学会
-      #count: 3
+      count: 4
       filters:
         folders:
           - events
