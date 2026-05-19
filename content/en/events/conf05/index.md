@@ -2,14 +2,14 @@
 title: "Assessment of dispersion of flat fracture and shear lip fracture using modified Rousselier model and stochastic collocation method"
 date: '2025-09-26T00:00:00Z'
 
-event_name: 第38回計算力学講演会 (CMD2025)
+event_name: 38th Conference of the Computational Mechanics Division (CMD)
 event_url: https://www.jsme.or.jp/conference/cmdconf25/
 
-location: 信州大学 工学部
+location: Shinshu University, Faculty of Engineering
 address:
-  postcode: '〒380-8553 長野県長野市若里4-17-1'
+  postcode: '4-17-1 Wakasato, Nagano City, Nagano Prefecture 380-8553'
 
-summary: 修正Rousselierモデルおよび確率論的選点法を用いた平坦破壊とシェアリップ破壊のバラつき評価
+#summary: 修正Rousselierモデルおよび確率論的選点法を用いた平坦破壊とシェアリップ破壊のバラつき評価
 abstract: |
   The contribution of this study is to propose a numerical analysis method by combination of a modified Rousselier model based on Hencky-type hyper-elastic energy function and a stochastic collocation method that enables us to efficiently compute statistics. A modified Rousselier model is proposed by combining conventional Rousselier model with Tresca yield criterion to predict not only flat fracture but also shear lip fracture. The flat fracture which arises owing to the growth of void under high stress triaxiality state is represented along with the increase of void volume fraction as the shrinkage of the yield surface by the hydrostatic stress. On the other hand, the shear lip fracture that is caused by the rotation and expansion of voids on the shear band under low stress triaxiality state is realized by introducing the Tresca yield criterion as the dependence of the yield function on Lode angle. By incorporating stochastic collocation method with the finite element analysis using the modified Rousselier model, the capability of our proposed method is demonstrated throughout numerical simulations.
 
@@ -20,8 +20,8 @@ event_all_day: false
 
 authors:
   - me
-  - 新宅 勇一
-  - 寺田賢二郎
+  - Yuichi Shintaku
+  - Kenjiro Terada
 
 #tags:
   #- Markdown

@@ -1,5 +1,5 @@
 ---
-title: "平坦破壊およびシアリップ破壊を表現するための拡張Rousselierモデル & 延性-脆性遷移挙動を表現するための結合力埋込型構成則"
+title: "An enhanced Rousselier model to realize flat and shear-lip fractures & Cohesive-enbedded constitutive law to realize ductile-to-brittle transition behavior"
 date: '2026-06-06T00:00:00Z'
 
 event_name: 第31回計算工学講演会
@@ -9,7 +9,7 @@ location: ウィンクあいち
 address:
   postcode: '〒450-0002 愛知県名古屋市中村区名駅４丁目４−３８'
 
-summary: An enhanced Rousselier model to realize flat and shear-lip fractures & Cohesive-enbedded constitutive law to realize ductile-to-brittle transition behavior
+#summary: 平坦破壊およびシアリップ破壊を表現するための拡張Rousselierモデル & 延性-脆性遷移挙動を表現するための結合力埋込型構成則
 abstract: |
   （1）The contribution of this study is to propose a numerical analysis method by combination of a modified Rousselier model based on Hencky-type hyper-elastic energy function and a stochastic collocation method that enables us to efficiently compute statistics. A modified Rousselier model is proposed by combining conventional Rousselier model with Tresca yield criterion to predict not only flat fracture but also shear lip fracture. The flat fracture which arises owing to the growth of void under high stress triaxiality state is represented along with the increase of void volume fraction as the shrinkage of the yield surface by the hydrostatic stress. On the other hand, the shear lip fracture that is caused by the rotation and expansion of voids on the shear band under low stress triaxiality state is realized by introducing the Tresca yield criterion as the dependence of the yield function on Lode angle. By incorporating stochastic collocation method with the finite element analysis using the modified Rousselier model, the capability of our proposed method is demonstrated throughout numerical simulations.
 
@@ -22,8 +22,8 @@ event_all_day: false
 
 authors:
   - me
-  - 新宅 勇一
-  - 寺田賢二郎
+  - Yuichi Shintaku
+  - Kenjiro Terada
 
 #tags:
   #- Markdown

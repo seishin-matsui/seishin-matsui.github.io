@@ -2,14 +2,14 @@
 title: "Rousselier model combined with Tresca yield criterion for predicting shear-lip fracture"
 date: '2025-06-06T00:00:00Z'
 
-event_name: 第30回計算工学講演会
+event_name: 30th Conference of the Japan Sciety for Computational Engineering and Science (JSCES)
 event_url: https://www.jsces.org/koenkai/30/
 
-location: ソニックシティ
+location: Sonic City Saitama
 address:
-  postcode: '〒330-0854 埼玉県さいたま市大宮区桜木町１丁目７−５'
+  postcode: '1-7-5 Sakuragi-cho, Omiya-ku, Saitama City, Saitama Prefecture 330-0854'
   
-summary: シェアリップ破壊を表現するためにTrescaの降伏基準を導入したRousselierモデル
+#summary: シェアリップ破壊を表現するためにTrescaの降伏基準を導入したRousselierモデル
 abstract: |
   The contribution of this study is to propose a Rousselier model by combining Tresca yield criterion to predict not only flat fracture but also shear-lip fracture. The flat fracture which arises owing to the growth of void under high stress triaxiality state is represented by the introduction of a damage variable corresponding to the void volume fraction as the shrinkage of yield surface associated with the hydrostatic stress like the conventional Rousselier model. On the other hand, the shear-lip fracture that is caused by the rotation and expansion of voids on the shear band under low stress triaxiality state is realized by the introduction of Tresca yield criterion as the dependence of the yield function on Lode angle. Throughout several numerical examples, the capability of the proposed model is demonstrated by comparison with the conventional Rousselier model in which von Mises yield criterion is employed as the yield function.
 
@@ -20,8 +20,8 @@ event_all_day: false
 
 authors:
   - me
-  - 新宅 勇一
-  - 寺田 賢二郎
+  - Yuichi Shintaku
+  - Kenjiro Terada
 
 #tags:
   #- Markdown
