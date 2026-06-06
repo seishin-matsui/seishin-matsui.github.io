@@ -65,7 +65,6 @@ My presentation is mainly about:
 - ✅ Tresca yield criterion
 - ✅ Ductile-to-brittle transition behavior
 - ✅ Cohesive zone model
-- ✅ Rousselier model
 
 
 {{< button url="https://www.jsces.org/koenkai/31/program/" text="Download Full Program" icon="book-open" style="outline" size="md" align="center" />}}
