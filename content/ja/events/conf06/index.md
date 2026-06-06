@@ -5,7 +5,7 @@ date: '2026-06-06T00:00:00Z'
 event_name: 第31回計算工学講演会
 event_url: https://www.jsces.org/koenkai/31/
 
-location: ウィンクあいち
+location: ウインクあいち
 address:
   postcode: '〒450-0002 愛知県名古屋市中村区名駅４丁目４−３８'
 
