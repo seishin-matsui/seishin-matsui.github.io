@@ -7,7 +7,7 @@
 #talks h2,
 #talks h3,
 #talks a {
-  font-size: 1.25rem !important;  /* 好みのサイズ（デフォルトより小さめ） */
+  font-size: 1.10rem !important;  /* 好みのサイズ */
   line-height: 1.4 !important;
 }
 
