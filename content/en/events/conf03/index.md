@@ -2,6 +2,8 @@
 title: "Rousselier model combined with Tresca yield criterion for predicting shear-lip fracture"
 date: '2025-06-06T00:00:00Z'
 
+share: false
+
 event_name: 30th Conference of the Japan Sciety for Computational Engineering and Science (JSCES)
 event_url: https://www.jsces.org/koenkai/30/
 

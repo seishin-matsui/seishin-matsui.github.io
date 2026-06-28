@@ -2,6 +2,8 @@
 title: "シェアリップ破壊を表現するためにTrescaの降伏基準を導入したRousselierモデル"
 date: '2025-06-06T00:00:00Z'
 
+share: false
+
 event_name: 第30回計算工学講演会
 event_url: https://www.jsces.org/koenkai/30/
 

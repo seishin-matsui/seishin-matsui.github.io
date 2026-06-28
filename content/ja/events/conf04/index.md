@@ -2,6 +2,8 @@
 title: "A CDM-like constitutive law with cohesive cracks to realize change of fracture behavior in ductile-to-brittle transition temperature"
 date: '2025-07-18T00:00:00Z'
 
+share: false
+
 event_name: The Fifth International Conference on Damage Mechanics (ICDM2025)
 event_url: https://icdm2025.sg/index.php
 

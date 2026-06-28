@@ -2,6 +2,8 @@
 title: "Assessment of dispersion of flat fracture and shear lip fracture using modified Rousselier model and stochastic collocation method"
 date: '2025-09-26T00:00:00Z'
 
+share: false
+
 event_name: 38th Conference of the Computational Mechanics Division (CMD)
 event_url: https://www.jsme.or.jp/conference/cmdconf25/
 

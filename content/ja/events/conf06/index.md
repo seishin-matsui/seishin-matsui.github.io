@@ -2,6 +2,8 @@
 title: "平坦破壊およびシアリップ破壊を表現するための拡張Rousselierモデル & 延性-脆性遷移挙動を表現するための結合力埋込型構成則"
 date: '2026-06-06T00:00:00Z'
 
+share: false
+
 event_name: 第31回計算工学講演会
 event_url: https://www.jsces.org/koenkai/31/
 

@@ -2,6 +2,8 @@
 title: "An enhanced Rousselier model to realize flat and shear-lip fractures & Cohesive-enbedded constitutive law to realize ductile-to-brittle transition behavior"
 date: '2026-06-06T00:00:00Z'
 
+share: false
+
 event_name: 31th Conference of the Japan Sciety for Computational Engineering and Science (JSCES)
 event_url: https://www.jsces.org/koenkai/31/
 

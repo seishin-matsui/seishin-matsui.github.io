@@ -2,6 +2,8 @@
 title: "脆性延性遷移領域における破壊挙動を表現するための熱力学的構成理論に基づく結合力埋込型モデル"
 date: '2024-06-12T00:00:00Z'
 
+share: false
+
 event_name: 第29回計算工学講演会
 event_url: https://www.jsces.org/koenkai/29/
 

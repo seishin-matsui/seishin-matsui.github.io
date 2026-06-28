@@ -2,6 +2,8 @@
 title: "修正Rousselierモデルおよび確率論的選点法を用いた平坦破壊とシェアリップ破壊のバラつき評価"
 date: '2025-09-26T00:00:00Z'
 
+share: false
+
 event_name: 第38回計算力学講演会 (CMD2025)
 event_url: https://www.jsme.or.jp/conference/cmdconf25/
 

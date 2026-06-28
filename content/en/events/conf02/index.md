@@ -2,6 +2,8 @@
 title: "Assessment of dispersion in brittle-to-ductile transition region using cohesive-traction embedded elasto-plastic constitutive law and stochastic collocation method"
 date: '2024-10-20T00:00:00Z'
 
+share: false
+
 event_name: 37th Conference of the Computational Mechanics Division (CMD)
 event_url: https://www.jsme.or.jp/conference/cmdconf24/
 

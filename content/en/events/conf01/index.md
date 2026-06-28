@@ -2,6 +2,8 @@
 title: "A cohesive-traction embedded damage model based on thermodynamic constitutive theory to represent the fracture behavior in brittle-to-ductile transition region"
 date: '2024-06-12T00:00:00Z'
 
+share: false
+
 event_name: 29th Conference of the Japan Sciety for Computational Engineering and Science (JSCES)
 event_url: https://www.jsces.org/koenkai/29/
 

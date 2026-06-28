@@ -2,6 +2,8 @@
 title: "結合力埋込型弾塑性構成則および確率論的選点法を用いた脆性延性遷移領域のバラつき評価"
 date: '2024-10-20T00:00:00Z'
 
+share: false
+
 event_name: 第37回計算力学講演会 (CMD2024)
 event_url: https://www.jsme.or.jp/conference/cmdconf24/
 
