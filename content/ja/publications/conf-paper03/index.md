@@ -1,6 +1,8 @@
 ---
 title: 'シェアリップ破壊を表現するためにTrescaの降伏基準を導入したRousselierモデル'
 
+share: false
+
 # Authors
 # If you created a profile for a user (e.g. the default `me` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.

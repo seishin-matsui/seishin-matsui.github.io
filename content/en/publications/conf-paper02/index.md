@@ -1,6 +1,8 @@
 ---
 title: '結合力埋込型弾塑性構成則および確率論的選点法を用いた脆性延性遷移領域のバラつき評価'
 
+share: false
+
 # Authors
 # If you created a profile for a user (e.g. the default `me` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.

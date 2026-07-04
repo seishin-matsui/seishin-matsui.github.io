@@ -1,6 +1,8 @@
 ---
 title: '延性-脆性遷移挙動を表現するための結合力埋込型構成則'
 
+share: false
+
 # Authors
 # If you created a profile for a user (e.g. the default `me` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
