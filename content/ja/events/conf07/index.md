@@ -1,6 +1,6 @@
 ---
 title: "An enhanced Rousselier model to predict ductile fracture under a wide range of loading conditions"
-date: '2026-06-25T00:00:00Z'
+date: '2026-07-25T00:00:00Z'
 
 share: false
 
