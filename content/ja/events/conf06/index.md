@@ -25,7 +25,7 @@ event_all_day: false
 authors:
   - me_ja
   - 新宅 勇一
-  - 寺田賢二郎
+  - 寺田 賢二郎
 
 #tags:
   #- Markdown
