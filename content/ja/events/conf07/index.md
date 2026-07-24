@@ -1,6 +1,6 @@
 ---
 title: "An enhanced Rousselier model to predict ductile fracture under a wide range of loading conditions"
-date: '2026-07-25T00:00:00Z'
+date: '2026-07-24T00:00:00Z'
 
 share: false
 
@@ -62,5 +62,9 @@ My presentation is mainly about:
 - ✅ Flat fracture
 - ✅ Shear-lip fracture
 - ✅ Rousselier model
+- ✅ Tresca model
+- ✅ Secondary void damage
+
+{{< button url="https://wccm-eccomas2026.org/programme_overview" text="Program Overview" icon="book-open" style="outline" size="md" align="center" />}}
 
 
