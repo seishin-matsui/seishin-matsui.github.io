@@ -80,6 +80,8 @@ sections:
         folders:
           - events
     design:
+      #view: article-grid
+      #columns: 2
       view: card
   #- block: collection
     #id: news
