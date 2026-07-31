@@ -2,7 +2,7 @@
    イベント関連のタイトル文字サイズ調整 (Tailwind版対応)
 ----------------------------------------- */
 
-/* ① ホームページ（Recent & Upcoming Talks）に表示されるイベント一覧のタイトル */
+/* ① ホームページ（Journal Articles）に表示されるイベント一覧のタイトル */
 /* #talks のブロック内にある見出しやリンクの文字サイズを強制上書き */
 #papers h2,
 #papers h3,
@@ -11,7 +11,7 @@
   line-height: 1.4 !important;
 }
 
-/* ① ホームページ（Recent & Upcoming Talks）に表示されるイベント一覧のタイトル */
+/* ① ホームページ（Intl. & Domestic Conferences）に表示されるイベント一覧のタイトル */
 /* #talks のブロック内にある見出しやリンクの文字サイズを強制上書き */
 #talks h2,
 #talks h3,

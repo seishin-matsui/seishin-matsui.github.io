@@ -76,6 +76,7 @@ sections:
     id: talks
     content:
       title: 会議論文
+      count: 10
       text: ''
       filters:
         folders:

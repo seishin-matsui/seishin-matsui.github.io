@@ -83,6 +83,3 @@ projects:
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
-
-
-{{< button url="https://confit.atlas.jp/guide/event/jsces29/subject/D-06-04/advanced" text="Read Full Documentation" icon="book-open" style="outline" size="md" align="center" />}}

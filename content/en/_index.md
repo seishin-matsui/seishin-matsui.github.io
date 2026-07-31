@@ -78,6 +78,7 @@ sections:
     id: talks
     content:
       title: Conference Papers
+      count: 10
       text: ''
       filters:
         folders:

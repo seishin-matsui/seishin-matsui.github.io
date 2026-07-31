@@ -1,5 +1,5 @@
 ---
-title: 'シェアリップ破壊を表現するためにTrescaの降伏基準を導入したRousselierモデル'
+title: 'Rousselierモデルを用いた異なる応力状態における延性き裂の進展挙動の予測'
 
 share: false
 
@@ -7,19 +7,18 @@ share: false
 # If you created a profile for a user (e.g. the default `me` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - 松井晟進
-  - 新宅勇一
-  - 寺田賢二郎
+  - me_ja
+  - 新宅 勇一
 
 # Author notes (optional)
 #author_notes:
   #- 'Equal contribution'
   #- 'Equal contribution'
 
-date: '2025-06-01T00:00:00Z'
+date: '2026-08-01T00:00:00Z'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2026-04-04T00:00:00Z'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -27,10 +26,12 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: 計算工学講演会講演論文集
-publication_short: 第30回計算力学講演会講演論文集
+publication: M&M2026 材料力学カンファレンス講演論文集
+publication_short: M&M2026 材料力学カンファレンス講演論文集
 
-abstract: The contribution of this study is to propose a Rousselier model by combining Tresca yield criterion to predict not only flat fracture but also shear-lip fracture. The flat fracture which arises owing to the growth of void under high stress triaxiality state is represented by the introduction of a damage variable corresponding to the void volume fraction as the shrinkage of yield surface associated with the hydrostatic stress like the conventional Rousselier model. On the other hand, the shear-lip fracture that is caused by the rotation and expansion of voids on the shear band under low stress triaxiality state is realized by the introduction of Tresca yield criterion as the dependence of the yield function on Lode angle. Throughout several numerical examples, the capability of the proposed model is demonstrated by comparison with the conventional Rousselier model in which von Mises yield criterion is employed as the yield function.
+abstract: The objective of this study is to propose an enhanced Rousselier model for predicting ductile fracture in metallic materials under a wide range of loading conditions. As is well known, ductile fracture is widely classified into pressure-dominated and shear-dominated types by the different damage mechanisms. The pressure-dominated fracture is represented by the combination of Rousselier model as the growth of voids depending on hydrostatic stress and the conventional void nucleation criterion from the primary inclusions. On the other hand, the shear-dominated failure is realized by the Tresca yield criterion as the formation of the shear band depending on Lode angle and the additional criterion as the subsequent void nucleation from the secondary inclusions due to the strain localization. Throughout numerical examples in which several types of specimens are utilized for a wide range of loading conditions, the capability of the proposed model is demonstrated by comparison with the conventional Rousselier model.
+
+
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.

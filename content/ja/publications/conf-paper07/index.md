@@ -1,5 +1,5 @@
 ---
-title: 'シェアリップ破壊を表現するためにTrescaの降伏基準を導入したRousselierモデル'
+title: '延性破壊に対するGTNモデルとRousselierモデルの表現性能の比較'
 
 share: false
 
@@ -7,19 +7,18 @@ share: false
 # If you created a profile for a user (e.g. the default `me` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - 松井晟進
-  - 新宅勇一
-  - 寺田賢二郎
+  - me_ja
+  - 新宅 勇一
 
 # Author notes (optional)
 #author_notes:
   #- 'Equal contribution'
   #- 'Equal contribution'
 
-date: '2025-06-01T00:00:00Z'
+date: '2026-07-31T00:00:00Z'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2026-04-04T00:00:00Z'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -27,10 +26,12 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: 計算工学講演会講演論文集
-publication_short: 第30回計算力学講演会講演論文集
+publication: 計算力学講演会講演論文集
+publication_short: 第39回計算力学講演会講演論文集
 
-abstract: The contribution of this study is to propose a Rousselier model by combining Tresca yield criterion to predict not only flat fracture but also shear-lip fracture. The flat fracture which arises owing to the growth of void under high stress triaxiality state is represented by the introduction of a damage variable corresponding to the void volume fraction as the shrinkage of yield surface associated with the hydrostatic stress like the conventional Rousselier model. On the other hand, the shear-lip fracture that is caused by the rotation and expansion of voids on the shear band under low stress triaxiality state is realized by the introduction of Tresca yield criterion as the dependence of the yield function on Lode angle. Throughout several numerical examples, the capability of the proposed model is demonstrated by comparison with the conventional Rousselier model in which von Mises yield criterion is employed as the yield function.
+abstract: The contribution of this study is to validate the applicability of Rousselier model to ductile fracture under a wide range of loading conditions in comparison with Gurson-Tvergaard-Needleman (GTN) model. To elucidate the differences between Rousselier model and GTN model, we compare their characteristics of shape of the yield surface, the evolution of the void growth and the coalescence criterion between voids. By utilizing smooth and notched round bars, the superiority of Rousselier model over GTN model is demonstrated owing to the dependence of the void coalescence criterion on stress triaxiality. Moreover, using shear specimen, the plastic hardening and the damage evolution associated with the voids are identified by Rousselier model to discuss the modification for low stress triaxiality condition by comparing with GTN model. Finally, from compression specimen, it is confirmed that Rousselier model predicts the different evolution of the void volume fraction from GTN model, which is caused by the asymmetric yield surface of Rousselier model under tension and compression.
+
+
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.

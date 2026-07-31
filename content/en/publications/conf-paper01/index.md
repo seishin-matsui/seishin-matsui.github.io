@@ -7,9 +7,9 @@ share: false
 # If you created a profile for a user (e.g. the default `me` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - 松井晟進
-  - 新宅勇一
-  - 寺田賢二郎
+  - me_ja
+  - 新宅 勇一
+  - 寺田 賢二郎
 
 # Author notes (optional)
 #author_notes:
@@ -83,6 +83,3 @@ projects:
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
-
-
-{{< button url="https://confit.atlas.jp/guide/event/jsces29/subject/D-06-04/advanced" text="Read Full Documentation" icon="book-open" style="outline" size="md" align="center" />}}
