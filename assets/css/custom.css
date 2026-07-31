@@ -4,6 +4,15 @@
 
 /* ① ホームページ（Recent & Upcoming Talks）に表示されるイベント一覧のタイトル */
 /* #talks のブロック内にある見出しやリンクの文字サイズを強制上書き */
+#papers h2,
+#papers h3,
+#papers a {
+  font-size: 1.10rem !important;  /* 好みのサイズ */
+  line-height: 1.4 !important;
+}
+
+/* ① ホームページ（Recent & Upcoming Talks）に表示されるイベント一覧のタイトル */
+/* #talks のブロック内にある見出しやリンクの文字サイズを強制上書き */
 #talks h2,
 #talks h3,
 #talks a {
