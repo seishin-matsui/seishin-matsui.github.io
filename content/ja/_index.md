@@ -49,28 +49,19 @@ sections:
         #Please reach out to collaborate [matsui.seishin.qm@alumni.tsukuba.ac.jp](mailto:matsui.seishin.qm@alumni.tsukuba.ac.jp)
     #design:
       #columns: '1'
-  #- block: collection
-    #id: papers
-    #content:
-      #title: Featured Publications
-      #filters:
-        #folders:
-          #- publications
-        #featured_only: true
-    #design:
-      #view: article-grid
-      #columns: 2
   - block: collection
     id: papers
     content:
-      title: 論文
-      text: ''
+      title: 学術誌論文
+      count: 3
       filters:
         folders:
-          - publications
-        exclude_featured: false
+          - papers
+        featured_only: true
     design:
-      view: citation
+      view: card
+      #view: article-grid
+      #columns: 2
   - block: collection
     id: talks
     content:
@@ -81,6 +72,17 @@ sections:
           - events
     design:
       view: card
+  - block: collection
+    id: talks
+    content:
+      title: 会議論文
+      text: ''
+      filters:
+        folders:
+          - publications
+        exclude_featured: false
+    design:
+      view: citation
   #- block: collection
     #id: news
     #content:

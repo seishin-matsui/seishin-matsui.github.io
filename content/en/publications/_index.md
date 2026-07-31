@@ -1,5 +1,5 @@
 ---
-title: Recent Publications
+title: Conference Papers
 cms_exclude: true
 
 # View.

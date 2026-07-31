@@ -1,5 +1,5 @@
 ---
-title: 論文
+title: 会議論文
 cms_exclude: true
 
 # View.
