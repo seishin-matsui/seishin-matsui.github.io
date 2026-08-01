@@ -15,7 +15,7 @@ status:
   #icon: "☕️"
 role: Ph.D. Student
 bio: |
- **I am Seishin Matsui, a Ph.D. student at the University of Tsukuba, Japan. My research centers on material modeling to simulate the fracture behavior of metallic materials. I also develop reliable numerical methods for fracture behavior subject to microstructural uncertainties, including voids, inclusions, and mechanical instabilities.**
+ **I am Seishin Matsui, a Ph.D. student at the University of Tsukuba, Japan. My research centers on material modeling to simulate the fracture behavior of metallic materials. I also develop reliable numerical methods for fracture behavior subjected to microstructural uncertainties, including voids, inclusions, and mechanical instabilities.**
 #In general, when a large deformation is applied to a metallic material at *room temperature*, it undergoes elastic deformation followed by plastic deformation, ultimately leading to <u>ductile fracture</u>. In contrast, at *low temperatures*, metallic materials undergo <u>brittle fracture</u> with little plastic deformation. Additionally, even small loads that do not cause immediate failure can gradually accumulate damage within the material through repeated loading and unloading, leading to <u>fatigue fracture</u>. Therefore, "fracture" is categorized into a variety of phenomena governed entirely by loading conditions. The aim of my reserch is to develop a <u>comprehensive framework</u> to mechanically evaluate these diverse fracture phenomena. In other owrds, I focus not only *on isolated failure modes* but also on *complex behaviors* where one fracture mechanism transitions into another.
 #Please reach out to collaborate [matsui.seishin.qm@alumni.tsukuba.ac.jp](mailto:matsui.seishin.qm@alumni.tsukuba.ac.jp)
   
