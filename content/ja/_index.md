@@ -66,12 +66,13 @@ sections:
     id: talks
     content:
       title: 国際・国内学会
-      count: 4
+      count: 3
       filters:
         folders:
           - events
     design:
       view: card
+      #css_class: "no-summary"
   - block: collection
     id: talks
     content:

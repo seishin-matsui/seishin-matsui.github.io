@@ -39,3 +39,14 @@ main h1 {
 .powered-by {
   display: none !important;
 }
+
+/* 学会のアブストを非表示にする */
+.no-summary h3 + p,
+.no-summary .article-title + p,
+.no-summary .abstract,
+.no-summary .summary {
+  display: none !important;
+}
+
+
+

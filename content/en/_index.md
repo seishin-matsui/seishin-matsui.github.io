@@ -66,14 +66,16 @@ sections:
     id: talks
     content:
       title: Intl. & Domestic Conferences
-      count: 4
+      count: 3
       filters:
         folders:
           - events
     design:
       #view: article-grid
       #columns: 2
+      #view: slides-gallery
       view: card
+      #css_class: "no-summary"
   - block: collection
     id: talks
     content:
