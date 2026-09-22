@@ -65,11 +65,25 @@ sections:
   - block: collection
     id: talks
     content:
-      title: Intl. & Domestic Conferences
-      count: 3
+      title: International Conferences
+      count: 2
       filters:
         folders:
-          - events
+          - conf_intl
+    design:
+      #view: article-grid
+      #columns: 2
+      #view: slides-gallery
+      view: card
+      #css_class: "no-summary"
+  - block: collection
+    id: talks
+    content:
+      title: Domestic Conferences
+      count: 2
+      filters:
+        folders:
+          - conf_domest
     design:
       #view: article-grid
       #columns: 2

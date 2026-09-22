@@ -63,13 +63,24 @@ sections:
       #view: article-grid
       #columns: 2
   - block: collection
-    id: talks
+    id: conf
     content:
-      title: 国際・国内学会
-      count: 3
+      title: 国際学会
+      count: 2
       filters:
         folders:
-          - events
+          - conf_intl
+    design:
+      view: card
+      #css_class: "no-summary"
+  - block: collection
+    id: conf
+    content:
+      title: 国内学会
+      count: 2
+      filters:
+        folders:
+          - conf_domest
     design:
       view: card
       #css_class: "no-summary"

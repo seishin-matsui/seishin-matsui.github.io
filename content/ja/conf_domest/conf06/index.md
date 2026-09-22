@@ -1,28 +1,28 @@
 ---
-title: "Prediction of ductile crack propagation under various stress states using Rousselier model"
+title: "延性破壊に対するGTNモデルとRousselierモデルの表現性能の比較"
 date: '2026-09-26T00:00:00Z'
 
 share: false
 
-event_name: M&M2026 conference on mechanics of materials
-event_url: https://www.jsme.or.jp/event/26-16/
+event_name: 第39回計算力学講演会 (CMD2025)
+event_url: https://www.jsme.or.jp/conference/cmdconf26/
 
-location: Osaka University, Toyonaka Campus
+location: 阪工業大学 梅田キャンパス（OIT梅田タワー）
 address:
-  postcode: '1-16 Machikaneyama-cho, Toyonaka City, Osaka 560-0043'
+  postcode: '〒530-8568 大阪市北区茶屋町1-45'
 
 summary: #Discover how to create stunning, interactive presentations using simple Markdown — no PowerPoint, Keynote, or vendor lock-in required.
 abstract: |
   The objective of this study is to propose an enhanced Rousselier model for predicting ductile fracture in metallic materials under a wide range of loading conditions. As is well known, ductile fracture is widely classified into pressure-dominated and shear-dominated types by the different damage mechanisms. The pressure-dominated fracture is represented by the combination of Rousselier model as the growth of voids depending on hydrostatic stress and the conventional void nucleation criterion from the primary inclusions. On the other hand, the shear-dominated failure is realized by the Tresca yield criterion as the formation of the shear band depending on Lode angle and the additional criterion as the subsequent void nucleation from the secondary inclusions due to the strain localization. Throughout numerical examples in which several types of specimens are utilized for a wide range of loading conditions, the capability of the proposed model is demonstrated by comparison with the conventional Rousselier model.
 
 # Talk start and end times.
-event_start: '2026-09-23T15:00:00Z'
-event_end: '2026-09-25T15:00:00Z'
+event_start: '2026-09-14T15:00:00Z'
+event_end: '2026-09-16T15:00:00Z'
 event_all_day: false
 
 authors:
-  - me
-  - Yuichi Shintaku
+  - me_ja
+  - 新宅 勇一
 
 #tags:
   #- Markdown
@@ -62,4 +62,4 @@ My presentation is mainly about:
 - ✅ Shear-lip fracture
 - ✅ Rousselier model
 
-
+{{< button url="https://www.jsme.or.jp/conference/cmdconf26/" text="Download Full Program" icon="book-open" style="outline" size="md" align="center" />}}

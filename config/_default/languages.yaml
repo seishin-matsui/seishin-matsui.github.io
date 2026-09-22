@@ -23,7 +23,7 @@ ja:
         url: '/#papers'
         weight: 2
       - name: 学会
-        url: '/#talks'
+        url: '/#conf'
         weight: 3
       - name: 経歴
         url: 'experience/'

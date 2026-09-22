@@ -1,5 +1,5 @@
 ---
-title: Intl. & Domestic Conferences
+title: International Conferences
 cms_exclude: true
 #url: talk
 
