@@ -1,6 +1,6 @@
 ---
 title: "延性破壊に対するGTNモデルとRousselierモデルの表現性能の比較"
-date: '2026-09-26T00:00:00Z'
+date: '2026-09-17T00:00:00Z'
 
 share: false
 

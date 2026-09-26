@@ -1,6 +1,6 @@
 ---
 title: "Comparison of GTN model and Rousselier model for representing ductile fracture"
-date: '2026-09-26T00:00:00Z'
+date: '2026-09-17T00:00:00Z'
 
 share: false
 
