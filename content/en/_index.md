@@ -66,7 +66,7 @@ sections:
     id: talks
     content:
       title: International Conferences
-      count: 2
+      count: 1
       filters:
         folders:
           - conf_intl
@@ -80,7 +80,7 @@ sections:
     id: talks
     content:
       title: Domestic Conferences
-      count: 2
+      count: 1
       filters:
         folders:
           - conf_domest

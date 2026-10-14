@@ -66,22 +66,27 @@ sections:
     id: conf
     content:
       title: 国際学会
-      count: 2
+      count: 1
       filters:
         folders:
           - conf_intl
     design:
+      #view: article-grid
+      #columns: 2
+      #view: slides-gallery
       view: card
       #css_class: "no-summary"
   - block: collection
     id: conf
     content:
       title: 国内学会
-      count: 2
+      count: 1
       filters:
         folders:
           - conf_domest
     design:
+      #view: article-grid
+      #columns: 2
       view: card
       #css_class: "no-summary"
   - block: collection
