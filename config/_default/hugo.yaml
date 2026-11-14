@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 # Website name (set in params.yaml under hugoblox.branding.name)
-title: '¼ˆä îi | Seishin Matsui'
+title: 'æ¾äº• æ™Ÿé€² | Seishin Matsui'
 # Website URL
 baseURL: 'https://seishin-matsui.github.io/'
 
@@ -61,5 +61,16 @@ markup:
     lineNos: false
 security:
   _merge: deep
+  exec:
+    allow:
+      - ^(dart-)?sass$
+      - ^go$
+      - ^git$
+      - ^node$
+      - ^postcss$
+      - ^npm$
+      - ^npx$
+      - ^tailwindcss$
+
 sitemap:
   _merge: deep

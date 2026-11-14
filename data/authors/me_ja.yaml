@@ -23,9 +23,9 @@ affiliations:
   - name: 筑波大学 新宅研究室
     url: https://sites.google.com/view/shintakulab
 
-#links:
-  #- icon: at-symbol
-    #url: mailto:matsui.seishin.qm@alumni.tsukuba.ac.jp
+links:
+  - icon: at-symbol
+    url: mailto:matsui.seishin.qm@alumni.tsukuba.ac.jp
     label: E-mail Me
   #- icon: brands/x
     #url: https://x.com/example
@@ -33,22 +33,22 @@ affiliations:
     #url: https://github.com/example
   #- icon: brands/linkedin
     #url: https://www.linkedin.com/in/example/
-  #- icon: academicons/google-scholar
-    #url: https://scholar.google.com/citations?user=example
+  - icon: academicons/google-scholar
+    url: https://scholar.google.com/citations?user=WHcwXv4AAAAJ&hl=ja
   #- icon: academicons/orcid
     #url: https://orcid.org/0000-0002-1825-0097
 
 interests:
-  - 有限要素法
+  - 金属材料
   - 塑性・損傷
+  - トポロジー最適化
   - 統計量評価
-  - データ同化
 
 education:
-  - degree: 博士（工学）
-    institution: 筑波大学 構造エネルギー工学学位プログラム
-    start: 2026-04-01
-    end: 現在
+  #- degree: 博士（工学）
+    #institution: 筑波大学 構造エネルギー工学学位プログラム
+    #start: 2026-04-01
+    #end: 現在
     #summary: |
       #Thesis on scaling laws for neural language models. Published 5 papers in NeurIPS and ICML.
     #button:

@@ -23,9 +23,9 @@ affiliations:
   - name: Shintaku laboratory, University of Tsukuba, Japan
     url: https://sites.google.com/view/shintakulab
 
-#links:
-  #- icon: at-symbol
-    #url: mailto:matsui.seishin.qm@alumni.tsukuba.ac.jp
+links:
+  - icon: at-symbol
+    url: mailto:matsui.seishin.qm@alumni.tsukuba.ac.jp
     #label: E-mail Me
   #- icon: brands/x
     #url: https://x.com/example
@@ -33,22 +33,22 @@ affiliations:
     #url: https://github.com/example
   #- icon: brands/linkedin
     #url: https://www.linkedin.com/in/example/
-  #- icon: academicons/google-scholar
-    #url: https://scholar.google.com/citations?user=example
+  - icon: academicons/google-scholar
+    url: https://scholar.google.com/citations?user=WHcwXv4AAAAJ&hl=ja
   #- icon: academicons/orcid
     #url: https://orcid.org/0000-0002-1825-0097
 
 interests:
-  - Finite element method
+  - Metallic materials
   - Damage plasticity
+  - Topology optimization
   - Statistical evaluation
-  - Data assimilation
 
 education:
-  - degree: Ph.D. in Engineering
-    institution: University of Tsukuba, Japan
-    start: 2026-04-01
-    end: Present
+  #- degree: Ph.D. in Engineering
+    #institution: University of Tsukuba, Japan
+    #start: 2026-04-01
+    #end: Present
     #summary: |
       #Thesis on scaling laws for neural language models. Published 5 papers in NeurIPS and ICML.
     #button:
