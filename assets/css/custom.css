@@ -48,5 +48,64 @@ main h1 {
   display: none !important;
 }
 
+/* ダークモード切り替え時の背景色・文字色・ヘッダー・フッターの上書き */
+html.dark body,
+html.dark .page-wrapper,
+html.dark main {
+  background-color: #0f172a !important;
+  color: #f1f5f9 !important;
+}
 
+html.dark header,
+html.dark nav.navbar,
+html.dark #site-header {
+  background-color: #1e293b !important;
+  color: #f8fafc !important;
+}
 
+html.dark footer,
+html.dark .site-footer {
+  background-color: #0f172a !important;
+  color: #94a3b8 !important;
+}
+
+/* ダークモード時のカード背景色（白背景のまま浮くのを防ぐ場合） */
+html.dark .card {
+  background-color: #1e293b !important;
+  color: #f1f5f9 !important;
+}
+
+/* ダークモード時のヘッダー内リンク・アイコンの文字色を明るくする */
+html.dark header a,
+html.dark nav.navbar a,
+html.dark #site-header a,
+html.dark header button,
+html.dark nav.navbar button,
+html.dark #site-header button {
+  color: #f1f5f9 !important; /* 明るい白系グレー（通常時） */
+}
+
+/* ヘッダー内の文字にカーソルが当たった（ホバー）時の色変化を維持 */
+html.dark header a:hover,
+html.dark nav.navbar a:hover,
+html.dark #site-header a:hover,
+html.dark header button:hover,
+html.dark nav.navbar button:hover,
+html.dark #site-header button:hover {
+  color: #2dd4bf !important; /* テーマのprimaryカラー（ターコイズ） */
+}
+
+/* ダークモード時のフッター内の文字・リンク色を明るくする */
+html.dark footer p,
+html.dark footer span,
+html.dark footer a,
+html.dark .site-footer p,
+html.dark .site-footer span,
+html.dark .site-footer a {
+  color: #cbd5e1 !important; /* 読みやすい明るいグレー */
+}
+
+html.dark footer a:hover,
+html.dark .site-footer a:hover {
+  color: #2dd4bf !important; /* ホバー時の色変化 */
+}
