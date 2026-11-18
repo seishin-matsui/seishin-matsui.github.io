@@ -109,3 +109,34 @@ html.dark footer a:hover,
 html.dark .site-footer a:hover {
   color: #2dd4bf !important; /* ホバー時の色変化 */
 }
+
+/* ダークモード時のモバイルメニュー（三重線）と閉じるボタン（バツ印）の色調整 */
+html.dark header label,
+html.dark nav.navbar label,
+html.dark #site-header label {
+  color: #f1f5f9 !important;
+  border: none !important;
+  outline: none !important;
+}
+
+/* SVGアイコン全体への強制stroke指定をやめ、colorのみ継承させる */
+html.dark header label svg,
+html.dark nav.navbar label svg,
+html.dark #site-header label svg {
+  color: #f1f5f9 !important;
+}
+
+/* 塗りつぶし(fill)で描かれたSVGアイコンに不要な枠線(stroke)が付くのを防ぐ */
+html.dark header label svg[fill="currentColor"],
+html.dark nav.navbar label svg[fill="currentColor"] {
+  stroke: none !important;
+  fill: currentColor !important;
+}
+
+/* ホバー時の色変化 */
+html.dark header label:hover,
+html.dark nav.navbar label:hover,
+html.dark #site-header label:hover,
+html.dark header label:hover svg {
+  color: #2dd4bf !important;
+}
