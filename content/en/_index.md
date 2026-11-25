@@ -20,7 +20,7 @@ sections:
         text: Download CV
         url: uploads/cv_en.pdf
       headings:
-        about: 'Profile'
+        about: 'Biography'
         education: ''
         interests: ''
     design:
