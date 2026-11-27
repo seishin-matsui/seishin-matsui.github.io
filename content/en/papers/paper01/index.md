@@ -1,5 +1,5 @@
 ---
-title: "Applicability of Rousselier model under a wide range of loading conditions - Comparison with GTN model"
+title: "広範な荷重条件下の延性破壊に対するRousselierモデルの適用性 - GTNモデルとの比較検証"
 date: '2026-07-31T00:00:00Z'
 
 share: false
@@ -58,11 +58,10 @@ image:
 
 ### *Key words*
 
-This paper is mainly about:
-- ✅ Rousselier model
-- ✅ GTN model
-- ✅ Stress triaxiality
-- ✅ Lode parameter
+- Rousselier model
+- GTN model
+- Stress triaxiality
+- Lode parameter
 
 {{< button url="https://www.jstage.jst.go.jp/article/jsces/2026/0/2026_20260009/_article/-char/ja" text="Download Full Document" icon="book-open" style="outline" size="md" align="center" />}}
 

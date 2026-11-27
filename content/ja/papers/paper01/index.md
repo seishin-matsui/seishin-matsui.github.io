@@ -58,11 +58,10 @@ image:
 
 ### *Key words*
 
-This paper is mainly about:
-- ✅ Rousselier model
-- ✅ GTN model
-- ✅ Stress triaxiality
-- ✅ Lode parameter
+- Rousselier model
+- GTN model
+- Stress triaxiality
+- Lode parameter
 
 {{< button url="https://www.jstage.jst.go.jp/article/jsces/2026/0/2026_20260009/_article/-char/ja" text="Download Full Document" icon="book-open" style="outline" size="md" align="center" />}}
 

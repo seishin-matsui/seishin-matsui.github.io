@@ -60,13 +60,12 @@ projects: []
 
 ### *Key words*
 
-My presentation is mainly about:
-- ✅ Flat fracture
-- ✅ Shear-lip fracture
-- ✅ Rousselier model
-- ✅ Tresca yield criterion
-- ✅ Ductile-to-brittle transition behavior
-- ✅ Cohesive zone model
+- Flat fracture
+- Shear-lip fracture
+- Rousselier model
+- Tresca yield criterion
+- Ductile-to-brittle transition behavior
+- Cohesive zone model
 
 
 {{< button url="https://www.jsces.org/koenkai/31/program/" text="Download Full Program" icon="book-open" style="outline" size="md" align="center" />}}

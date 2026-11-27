@@ -57,9 +57,8 @@ projects: []
 
 ### *Key words*
 
-My presentation is mainly about:
-- ✅ Flat fracture
-- ✅ Shear-lip fracture
-- ✅ Rousselier model
+- Flat fracture
+- Shear-lip fracture
+- Rousselier model
 
 {{< button url="https://pub.confit.atlas.jp/ja/event/mmdmpdconf2026" text="Download Full Program" icon="book-open" style="outline" size="md" align="center" />}}

@@ -58,13 +58,12 @@ projects: []
 
 ### *Key words*
 
-My presentation is mainly about:
-- ✅ Ductile-to-brittle transition region
-- ✅ Charpy impact test
-- ✅ Dispersion of fracture toughness
-- ✅ GTN model
-- ✅ Cohesive zone model
-- ✅ Stochastic collocation method
+- Ductile-to-brittle transition region
+- Charpy impact test
+- Dispersion of fracture toughness
+- GTN model
+- Cohesive zone model
+- Stochastic collocation method
 
 {{< button url="https://www.jsme.or.jp/conference/cmdconf24/doc/program_cmd2024.pdf" text="Download Full Program" icon="book-open" style="outline" size="md" align="center" />}}
 

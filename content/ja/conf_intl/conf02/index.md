@@ -58,12 +58,11 @@ projects: []
 
 ### *Key words*
 
-My presentation is mainly about:
-- ✅ Flat fracture
-- ✅ Shear-lip fracture
-- ✅ Rousselier model
-- ✅ Tresca model
-- ✅ Secondary void damage
+- Flat fracture
+- Shear-lip fracture
+- Rousselier model
+- Tresca model
+- Secondary void damage
 
 {{< button url="https://wccm-eccomas2026.org/programme_overview" text="Program Overview" icon="book-open" style="outline" size="md" align="center" />}}
 

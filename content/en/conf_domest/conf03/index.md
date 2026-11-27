@@ -58,11 +58,10 @@ projects: []
 
 ### *Key words*
 
-My presentation is mainly about:
-- ✅ Flat fracture
-- ✅ Shear-lip fracture
-- ✅ Rousselier model
-- ✅ Tresca yield criterion
+- Flat fracture
+- Shear-lip fracture
+- Rousselier model
+- Tresca yield criterion
 
 {{< button url="https://www.jsces.org/koenkai/30/program/" text="Download Full Program" icon="book-open" style="outline" size="md" align="center" />}}
 

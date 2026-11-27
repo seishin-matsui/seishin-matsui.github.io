@@ -59,11 +59,10 @@ image:
 
 ### *Key words*
 
-My presentation is mainly about:
-- ✅ Ductile-to-brittle transition region
-- ✅ Charpy impact test
-- ✅ Thermodynamic constitutive theory
-- ✅ Rousselier model
-- ✅ Cohesive zone model
+- Ductile-to-brittle transition region
+- Charpy impact test
+- Thermodynamic constitutive theory
+- Rousselier model
+- Cohesive zone model
 
 {{< button url="https://www.jsces.org/koenkai/29/program/" text="Download Full Program" icon="book-open" style="outline" size="md" align="center" />}}

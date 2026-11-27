@@ -59,12 +59,11 @@ projects: []
 
 ### *Key words*
 
-My presentation is mainly about:
-- ✅ Ductile-to-brittle transition behavior
-- ✅ Temperature dependence
-- ✅ CDM-like constitutive law
-- ✅ Ductile fracture model
-- ✅ Cohesive zone model
+- Ductile-to-brittle transition behavior
+- Temperature dependence
+- CDM-like constitutive law
+- Ductile fracture model
+- Cohesive zone model
 
 {{< button url="https://icdm2025.sg/programme.php#programme" text="Program Overview" icon="book-open" style="outline" size="md" align="center" />}}
 

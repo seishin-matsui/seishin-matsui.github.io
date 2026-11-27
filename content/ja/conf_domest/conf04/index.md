@@ -58,12 +58,11 @@ projects: []
 
 ### *Key words*
 
-My presentation is mainly about:
-- ✅ Flat fracture
-- ✅ Shear-lip fracture
-- ✅ Dispersion of fracture elongation
-- ✅ Rousselier model
-- ✅ Stochastic collocation method
+- Flat fracture
+- Shear-lip fracture
+- Dispersion of fracture elongation
+- Rousselier model
+- Stochastic collocation method
 
 {{< button url="https://www.jsme.or.jp/conference/cmdconf25/download/program.pdf" text="Download Full Program" icon="book-open" style="outline" size="md" align="center" />}}
 
